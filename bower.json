@@ -4,6 +4,7 @@
     "authors": [
         "Michal Bucki"
     ],
+    
     "description": "todolist JavaScript dependencies.",
     "private": true,
     "dependencies": {
